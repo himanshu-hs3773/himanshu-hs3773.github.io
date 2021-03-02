@@ -2,24 +2,27 @@
 layout: default
 ---
 
+
 # EDUCATION
 
-### Master of Science in Computer Engineering, New York University                      May 2020
 
-### Bachelor of Technology in Electronics & Communications, U.P.T.U.                   Jun 2013
+## Computer Engineering, M.S.              		     			May 2020
+### New York University
+
+## Electronics and Communication Engineering					Jun 2013
+### Uttar Pradesh Technical University
 
 * * *
 
 # SKILLS
 
-* <span style="color:blue">**Programming:**</span> Python, C++, Core Java, SQL, Swift (Basics), VHDL
+* <h3><span style="color:orange">**Programming:**</span></h3> <p><span>Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></p>
 ---
-* **Python Packages:** TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn
+* <h3><span style="color:orange">**Python Packages:**</span></h3> <p><span>TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></p>
 ---
-* **Web Development:** Django, CSS, HTML5, Markdown, XML
+* <h3><span style="color:orange">**Web Development:**</span></h3> <p><span>Django, CSS, HTML5, Markdown, XML</span></p>
 ---
-* Tools: VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado,
-FPGA, ModelSim
+* <h3><span style="color:orange">**TOOLS:**</span></h3> <p><span>VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado, FPGA, ModelSim</span></p>
 
 * * *
 
@@ -52,7 +55,7 @@ FPGA, ModelSim
 
 * * *
 
-# ACADENIC PROJECTS
+# ACADEMIC PROJECTS
 
 ## Dafodills.ai, Text Generator Tool – Recurrent Neural Network (RNN) | Jupyter NB
 • An LSTM Recurrent Neural Network text generator Tool trained using GCP’s NVIDIA P100 GPU
