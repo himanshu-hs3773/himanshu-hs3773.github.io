@@ -2,122 +2,77 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# EDUCATION
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Master of Science in Computer Engineering, New York University                      May 2020
+Bachelor of Engineering in Electronics & Communications, U.P.T.U.                   Jun 2013
 
 * * *
 
-### Here is an unordered list:
+# EDUCATION
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Master of Science in Computer Engineering, New York University                      May 2020
+Bachelor of Engineering in Electronics & Communications, U.P.T.U.                   Jun 2013
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# SKILLS
 
-### And a nested list:
+* Programming: Python, C++, Core Java, SQL, Swift (Basics), VHDL
+* Python Packages: TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn
+* Web Development: Django, CSS, HTML5, Markdown, XML
+* Tools: VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado,
+FPGA, ModelSim
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* * *
 
-### Small image
+# WORK EXPERIENCE
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Software Developer, Riina Education for Innovation, Inc. | Syracuse, NY Jul 2020 – Present
 
-### Large image
+* Onboarded the organization on Google Workspace, and managing the G-Suite tools and products as Admin.
+* Currently developing organization's website Eduriina.org on WordPress.com
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Analyst, Finance Operations & Treasury, New York University | New York, NY  Jun 2019 – May 2020
 
+* Performed analysis on financial data and created detailed reports, compliance statistics and expense forecasts.
+* Managed 2500+ corporate accounts for $23Mn annual credit for NYUs Domestic & International units.
+* Liaised with the internal Audit department to monitor & identify anomalous transactions, and actively engaged with Fiscal officers for verification and reconciliation of identified transactions.
 
-### Definition lists can be used with HTML syntax.
+## Systems Engineer, DA Electromations Pvt. Ltd. | Faridabad, India  Sep 2016 – Sep 2017
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* Pro-actively pursued prospects, and delivered technical presentations and product demos, and consequently secured new/additional contracts by illustrating cost reductions and operations improvements.
+* Compiled DPRs by conducting site evaluations and liaised with cross-functional teams to ascertain project specifications, deadlines, and resources’ requirements.
+* Delivered projects at client-site ahead of schedule through effective time-management, methodically integrating the project to clients’ existing infrastructure, and on-the-go decision making to handle conflicts in real time.
+* Projects: Raspberry Pi-based Manufacturing Metric Displays (MMD) integrated on a Linux/Windows server through SSH protocol. SQL Server-based Data Acquisition (DAQ) & Overall Equipment Effectiveness (OEE) reporting systems. 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Field (Software) Engineer, DA Electromations Pvt. Ltd. | Faridabad, India Jul 2015 – Aug 2016
 
-```
-The final element.
-```
+* Troubleshot on-site hardware (Embedded systems) and/or software (Linux server, Network, Python, SQL) issues.
+* Wrote and optimized test cases to maximize the success of manual testing with consistent, thorough approaches.
+* Contributed to the development of GUI & Graphics (PyQt) for LED MMD boards & associated software applications.
+* Slashed unit-test time by 75% by redesigning GUI (Tkinter) and integrating additional manual testing features to in-house testing software for Cooling and Alarm systems (viz. Telecomm towers)
+
+* * *
+
+# ACADENIC PROJECTS
+
+## Dafodills.ai, Text Generator Tool – Recurrent Neural Network (RNN) | Jupyter NB
+• An LSTM Recurrent Neural Network text generator Tool trained using GCP’s NVIDIA P100 GPU
+• Reduced loss by 35% by adding layers to the statistical language model while retaining the LSTM memory unit
+
+## Machine Learning | Data Science – Scikit-Learn |TensorFlow |Keras |Broadcasting |Extract Transform Load (ETL) 
+• Created a model using Support Vector Machines to recognize digits on OCR/Docs with 91.4% accuracy.
+• Built a Neural Network model to classify instruments in a music track using Librosa with 96.9% accuracy.
+• Created a CNN model for vehicle classification, trained model on NVIDIA P100 GPU, Accuracy 95.4%.
+
+## MIPS Processor & Cache Memory, Simulator – C++ | Eclipse IDE
+• Conceptualized a 5-Stage Pipelined -- 32 Bit -- MIPS processor Simulator (C++). Incorporated MIPS functionalities like RAW hazard solving, forwarding, execution stalling & clock synchronization.
+• Designed an L1 & L2 cache simulator capable of simulating variable cache block size and associativity.
+• 
+## Cryptographic Hardware Accelerator – Xilinx Atrix-7 FPGA | Vivado HLS | VHDL | Verilog | C/C++
+• Created fast hardware Encryptor/Decryptor using Xilinx Artix-7 FPGA for AES & DES algorithms
+• Synthesized AES in Verilog HDL & DES in Vivado HLS C for encryption, decryption & key expansion modules
+• Found hardware security bugs in Ariane SoC (RISCV architecture: Verilog & System-Verilog), by ModelSim simulations & HDL code review for Hack@DAC competition DAC’19. Team Xx-dacHOUND-xX (Pos. 15)
+
+* * *
