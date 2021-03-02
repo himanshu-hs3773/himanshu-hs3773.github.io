@@ -4,23 +4,20 @@ layout: default
 
 # EDUCATION
 
-Master of Science in Computer Engineering, New York University                      May 2020
-Bachelor of Engineering in Electronics & Communications, U.P.T.U.                   Jun 2013
+### Master of Science in Computer Engineering, New York University                      May 2020
 
-* * *
-
-# EDUCATION
-
-Master of Science in Computer Engineering, New York University                      May 2020
-Bachelor of Engineering in Electronics & Communications, U.P.T.U.                   Jun 2013
+### Bachelor of Technology in Electronics & Communications, U.P.T.U.                   Jun 2013
 
 * * *
 
 # SKILLS
 
-* Programming: Python, C++, Core Java, SQL, Swift (Basics), VHDL
-* Python Packages: TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn
-* Web Development: Django, CSS, HTML5, Markdown, XML
+* <span style="color:blue">**Programming:**</span> Python, C++, Core Java, SQL, Swift (Basics), VHDL
+---
+* **Python Packages:** TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn
+---
+* **Web Development:** Django, CSS, HTML5, Markdown, XML
+---
 * Tools: VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado,
 FPGA, ModelSim
 
