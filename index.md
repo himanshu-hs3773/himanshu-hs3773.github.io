@@ -14,23 +14,20 @@ layout: default
 
 # SKILLS
 
-* <h3><span style="color:orange">Programming:</span></h3> <p><span>Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></p>
+* <h3 style="color:orange">Programming: <span style="color:black">Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></h3> 
 
-* <h3><span style="color:orange">Python Packages:</span></h3> <p><span>TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></p>
+* <h3 style="color:orange">Python Packages: <span style="color:black">TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></h3>
 
-* <h3><span style="color:orange">Web Development:</span></h3> <p><span>Django, CSS, HTML5, Markdown, XML</span></p>
+* <h3 style="color:orange">Web Development: <span style="color:black">Django, CSS, HTML5, Markdown, XML</span></h3>
 
-* <h3><span style="color:orange">TOOLS:</span></h3> <p><span>VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado, FPGA, ModelSim</span></p>
+* <h3 style="color:orange">TOOLS:<span style="color:black">VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado, FPGA, ModelSim</span></h3>
 
 * * *
 
 # WORK EXPERIENCE
 
-## Software Developer
 <h2 style="text-align:left, color:black;">Software Developer<span style="float:right;">Jul 2020 – Present</span></h2>
 <h4 style="text-align:left, color:black;">Riina Education for Innovation, Inc. &#124; Syracuse, NY (Remote)</h4>
-
-\
 * Onboarded the organization on Google Workspace, and managing the G-Suite tools and products as Admin.
 * Currently developing organization's website Eduriina.org on WordPress.com
 
