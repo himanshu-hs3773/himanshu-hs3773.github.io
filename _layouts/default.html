@@ -20,6 +20,31 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  
+  <style>
+    body {
+    margin: 0;
+    }
+
+    .navbar {
+    overflow: hidden;
+    background-color:darkkhaki;
+    }
+    .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    }
+    .navbar a.right {
+    float: right;
+    }
+    .navbar a:hover{
+    background-color: #eee;
+    color: black;
+    }
+  </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -33,6 +58,13 @@
         <a href="https://github.com/himanshu-hs3773" class="btn">GitHub</a>
       {% endif %}
     </header>
+    
+    <div class="navbar">
+      <a href="#">Home</a>
+      <a href="#">About US</a>
+      <a href="#">Services</a><a href="#">Contact</a>
+      <a href="#" class="right">SignUp</a>
+    </div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}

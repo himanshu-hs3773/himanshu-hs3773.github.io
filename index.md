@@ -4,23 +4,23 @@ layout: default
 
 # EDUCATION
 
-<h2 style="text-align:left;">Computer Engineering, MS<span style="float:right;">May 2020</span></h2>
-<h3>New York University</h3>
+<h2 style="text-align:left, color:orange;">Computer Engineering, MS<span style="float:right;">May 2020</span></h2>
+<h3 style="color:black">New York University</h3>
 
-<h2 style="text-align:left;">Electronics and Communication Engineering, BS<span style="float:right;">June 2013</span></h2>
-<h4>Uttar Pradesh Technical University</h4>
+<h2 style="text-align:left, color:orange;">Electronics and Communication Engineering, BS<span style="float:right;">June 2013</span></h2>
+<h3 style="color:black">Uttar Pradesh Technical University</h3>
 
 * * *
 
 # SKILLS
 
-* <h3 style="color:orange">Programming: <span style="color:black">Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></h3> 
+* <h3 style="color:orange">Programming : <span style="color:black">Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></h3> 
 
-* <h3 style="color:orange">Python Packages: <span style="color:black">TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></h3>
+* <h3 style="color:orange">Python Packages : <span style="color:black">TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></h3>
 
-* <h3 style="color:orange">Web Development: <span style="color:black">Django, CSS, HTML5, Markdown, XML</span></h3>
+* <h3 style="color:orange">Web Development : <span style="color:black">Django, CSS, HTML5, Markdown, XML</span></h3>
 
-* <h3 style="color:orange">TOOLS:<span style="color:black">VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado, FPGA, ModelSim</span></h3>
+* <h3 style="color:orange">TOOLS : <span style="color:black">VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado, FPGA, ModelSim</span></h3>
 
 * * *
 
@@ -32,13 +32,11 @@ layout: default
 * Currently developing organization's website Eduriina.org on WordPress.com
 
 ## Analyst, Finance Operations & Treasury, New York University | New York, NY  Jun 2019 – May 2020
-\
 * Performed analysis on financial data and created detailed reports, compliance statistics and expense forecasts.
 * Managed 2500+ corporate accounts for $23Mn annual credit for NYUs Domestic & International units.
 * Liaised with the internal Audit department to monitor & identify anomalous transactions, and actively engaged with Fiscal officers for verification and reconciliation of identified transactions.
 
 ## Systems Engineer, DA Electromations Pvt. Ltd. | Faridabad, India  Sep 2016 – Sep 2017
-\
 * Pro-actively pursued prospects, and delivered technical presentations and product demos, and consequently secured new/additional contracts by illustrating cost reductions and operations improvements.
 * Compiled DPRs by conducting site evaluations and liaised with cross-functional teams to ascertain project specifications, deadlines, and resources’ requirements.
 * Delivered projects at client-site ahead of schedule through effective time-management, methodically integrating the project to clients’ existing infrastructure, and on-the-go decision making to handle conflicts in real time.
