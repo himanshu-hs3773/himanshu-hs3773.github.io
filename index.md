@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # EDUCATION
 
 
@@ -16,7 +15,7 @@ layout: default
 
 # SKILLS
 
-* <h3><span style="color:orange">**Programming:**</span></h3> <p><span>Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></p>
+* <h3><span style="color:orange">Programming:</span></h3> <p><span>Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></p>
 ---
 * <h3><span style="color:orange">**Python Packages:**</span></h3> <p><span>TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></p>
 ---
