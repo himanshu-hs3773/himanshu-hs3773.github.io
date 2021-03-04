@@ -67,7 +67,7 @@ title: Himanshu Singh
 
 # ACADEMIC PROJECTS
 - - -
-## Dafodills.ai, Text Generator Tool##
+## Dafodills.ai, Text Generator Tool ##
 #### Recurrent Neural Network (RNN) | Jupyter NB ####
 * An LSTM Recurrent Neural Network text generator Tool trained using GCP’s NVIDIA P100 GPU
 <br />
