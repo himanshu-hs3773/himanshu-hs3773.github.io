@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Himanshu Singh
@@ -18,11 +17,11 @@ title: Himanshu Singh
 # SKILLS
 - - -
 * <h3 style="color:orange"><b>Programming : </b><span style="color:black">Python, C++, Core Java, SQL, Swift (Basics), VHDL</span></h3>
-<br />
+
 * <h3 style="color:orange"><b>Python Packages : </b><span style="color:black">TensorFlow, Scikit-Learn, Keras, Pandas, SciPy, NumPy, PyQt, TkInter, Matplotlib, Seaborn</span></h3>
-<br />
+
 * <h3 style="color:orange"><b>Web Development : </b><span style="color:black">Django, CSS, HTML5, Markdown, XML</span></h3>
-<br />
+
 * <h3 style="color:orange"><b>TOOLS : </b><span style="color:black">VirtualBox, Access, MySQL, Tableau, Excel, Eclipse, Git, Jupyter NB, Windows/Linux CLI, VSCode, OS X, XCode, Cocoa, PyCharm, Object-Oriented Programming, Data Structures, Algorithms, Vivado, FPGA, ModelSim</span></h3>
 <br />
 <hr style="height:20px;color:coral;">
@@ -32,7 +31,6 @@ title: Himanshu Singh
 - - -
 <h2 style="text-align:left, color:black;">Software Developer<span style="float:right;">Jul 2020 – Present</span></h2>
 <h4 style="text-align:left, color:black;">Riina Education for Innovation, Inc. &#124; Syracuse, NY (Remote)</h4>
-<br />
 * Onboarded the organization on Google Workspace, and managing the G-Suite tools and products as Admin.
 * Currently developing organization's website Eduriina.org on WordPress.com
 <br />
@@ -97,4 +95,4 @@ title: Himanshu Singh
 <br />
 * Found hardware security bugs in Ariane SoC (RISCV architecture: Verilog & System-Verilog), by ModelSim simulations & HDL code review for Hack@DAC competition DAC’19. Team Xx-dacHOUND-xX (Pos. 15)
 
-<hr style="height:20px;width:50%;align:center;color:coral;">
+<hr style="height:20px;color:coral;">
