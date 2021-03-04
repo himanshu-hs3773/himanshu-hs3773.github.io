@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Himanshu Singh
+description: Portfolio
 ---
 
 # EDUCATION
